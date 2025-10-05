@@ -134,7 +134,7 @@ tokenshift/
 ├── README.md                   # Documentation
 └── tokenshift.db               # SQLite database (created at runtime)
 ```
-D
+
 ### Key Components
 
 - **Handlers**: Process Telegram commands and messages
