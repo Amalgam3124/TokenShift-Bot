@@ -1,0 +1,13 @@
+# Telegram Bot Configuration
+BOT_TOKEN=your_telegram_bot_token_here
+
+# SideShift.ai API Configuration
+SIDESHIFT_SECRET=your_sideshift_secret_here
+SIDESHIFT_AFFILIATE_ID=your_affiliate_id_here
+
+# Price Data APIs
+COINGECKO_API_KEY=your_coingecko_api_key_here
+
+# OpenRouter API Configuration
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_API_BASE=https://openrouter.ai/api/v1

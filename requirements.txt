@@ -1,0 +1,11 @@
+# Telegram Bot (using stable version)
+python-telegram-bot==20.3
+
+# HTTP requests
+requests==2.31.0
+
+# Encryption for wallet management
+cryptography==41.0.7
+
+# Environment variables
+python-dotenv==1.0.0
