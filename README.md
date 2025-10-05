@@ -53,7 +53,7 @@ A powerful Telegram bot for cryptocurrency trading and portfolio management, bui
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tokenshift-bot.git
+   git clone https://github.com/Amalgam3124/TokenShift-Bot.git
    cd tokenshift-bot
    ```
 
